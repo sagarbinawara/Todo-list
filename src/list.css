@@ -1,0 +1,25 @@
+.linestyle {
+    margin: 20px 0px;
+    display: flex;
+}
+
+li {
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    width: 350px;
+    padding: 2px;
+}
+
+.complatetaskbutton {
+    margin: 0px 5px;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+}
+
+li del {
+    width: 100px;
+    color: yellow;
+}

@@ -1,0 +1,18 @@
+.submittaskdiv {
+    margin: 40px 0px;
+}
+
+input {
+    width: 250px;
+    padding: 5px;
+}
+
+.entertaskbutton {
+    margin: 0px 5px;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+}
